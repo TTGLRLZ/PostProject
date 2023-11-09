@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-react-app-one-PostsProject/static/css/main.6d395856.css",
-    "main.js": "/my-react-app-one-PostsProject/static/js/main.e057b4d7.js",
-    "index.html": "/my-react-app-one-PostsProject/index.html",
-    "main.6d395856.css.map": "/my-react-app-one-PostsProject/static/css/main.6d395856.css.map",
-    "main.e057b4d7.js.map": "/my-react-app-one-PostsProject/static/js/main.e057b4d7.js.map"
+    "main.css": "/PostProject/static/css/main.6d395856.css",
+    "main.js": "/PostProject/static/js/main.e057b4d7.js",
+    "index.html": "/PostProject/index.html",
+    "main.6d395856.css.map": "/PostProject/static/css/main.6d395856.css.map",
+    "main.e057b4d7.js.map": "/PostProject/static/js/main.e057b4d7.js.map"
   },
   "entrypoints": [
     "static/css/main.6d395856.css",
